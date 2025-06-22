@@ -1,5 +1,5 @@
-==> 2025-06-22 20:55:19 <==
-# cmd: C:\Users\BIVA CHANDRA SHEKHAR\Anaconda3\Scripts\conda-script.py create -p env python=3.10 -y
+==> 2025-06-22 21:15:20 <==
+# cmd: C:\Users\BIVA CHANDRA SHEKHAR\Anaconda3\Scripts\conda-script.py create -p ./env python=3.10 -y
 # conda version: 24.11.3
 +defaults/noarch::pip-25.1-pyhc872135_2
 +defaults/noarch::tzdata-2025b-h04d1e81_0
