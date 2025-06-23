@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: agentic-trading-system
+Version: 0.0.1
+Summary: A trading system that uses agentic AI to trade in the stock market
+Author: Raj Shekhar
+Author-email: rajshekhar0810@gmail.com
+Requires-Dist: lancedb
+Requires-Dist: langchain
+Requires-Dist: langgraph
+Requires-Dist: tavily-python
+Requires-Dist: polygon
